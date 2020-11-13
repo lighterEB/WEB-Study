@@ -1,10 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>input元素</title>
 </head>
 <body>
-$END$
+    <form action="">
+        <!--1.文本框-->
+        <input type="text" name="test" placeholder="请输入一个数字" value="100" readonly><br />
+        <input type="text" minlength="2" maxlength="5">
+
+        <!--2.密码框-->
+        <input type="password" name="password" > <br />
+
+        <!--3.单选框-->
+        <input type="radio" name="性别" checked>男
+        <input type="radio" name="性别">女
+        <input type="radio" name="number">1
+        <input type="radio" name="number">2
+        <input type="radio" name="number" checked>3 <br />
+
+        <!--4.复选框-->
+        <input type="checkbox" name="hobby" id="1">吃饭
+        <input type="checkbox" name="hobby" id="2">睡觉
+        <input type="checkbox" name="hobby" id="3">看电视
+        <input type="checkbox" name="hobby" id="4">听音乐
+        <input type="checkbox" name="hobby" id="5">打飞机
+
+        <!--5.文件上传按钮-->
+        <input type="file">
+
+        <!--6.普通按钮(属性：value（按钮标题），disabled（失效）)-->
+        <input type="button" value="起飞！">
+
+        <!--7.image:图片按钮，用法与普通按钮一致-->
+        <input type="image" src="image/refresh.png">
+        <br />
+
+        <!--8.submit:提交按钮，用来将表单数据提交到后台。-->
+        <input type="submit" value="登陆">
+        <!--9.reset:重置按钮-->
+        <input type="reset">
+
+
+    </form>
 </body>
 </html>

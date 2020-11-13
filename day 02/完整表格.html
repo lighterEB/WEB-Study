@@ -1,10 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>完整表格</title>
 </head>
 <body>
-$END$
+    <!--table[border=1 width=600 align=center]>(caption{学生信息表})+(thead>tr>th*4)+(tbody>tr*3>td*4)+(tfoot>tr>td[colspan=1])-->
+    <table border="1" width="600" align="center">
+        <caption>学生信息表</caption>
+        <thead>
+        <tr>
+            <th>学号</th>
+            <th>姓名</th>
+            <th>家庭住址</th>
+            <th>备注</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td align="center">001</td>
+            <td>黄维</td>
+            <td>常德</td>
+            <td>女人</td>
+        </tr>
+        <tr>
+            <td align="center">002</td>
+            <td>胡尚鹏程</td>
+            <td>地球</td>
+            <td>👨爸爸</td>
+        </tr>
+        <tr>
+            <td align="center">003</td>
+            <td>笨笨</td>
+            <td>胡爸爸家🏠</td>
+            <td>🐱喵星人</td>
+        </tr>
+        </tbody>
+        <tfoot>
+        <tr>
+            <td colspan="4" align="center">附注：胡爸爸是最帅的</td>
+        </tr>
+        </tfoot>
+    </table>
 </body>
 </html>
