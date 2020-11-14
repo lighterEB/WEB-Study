@@ -20,19 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824a84ec-e60c-42aa-bdd5-f2cd6d4db138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day 02/button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/iframe/banner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/iframe/fashion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/iframe/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/iframe/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/iframe元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/img/saonan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/综合练习/meinv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/综合练习/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/综合练习/综合表格.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/综合练习/网格表格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/综合练习/表单信息.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML语言学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML语言学习笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 02/综合练习/综合表格.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 02/综合练习/综合表格.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +68,7 @@
       <updated>1605090769439</updated>
       <workItem from="1605090770619" duration="2988000" />
       <workItem from="1605162870508" duration="4765000" />
-      <workItem from="1605267577401" duration="7863000" />
+      <workItem from="1605267577401" duration="12260000" />
     </task>
     <servers />
   </component>
