@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS选择器</title>
+    <style>
+        /* 1.* 匹配所有标签*/
+        /* {
+            color: red;
+        }
+
+        /* 2.标签选择器*/
+        span{
+            display: block;
+            margin-right: 20px;
+            border: 1px solid gray;
+        }
+
+        /* 3.类选择器 */
+        .wrapper{
+            color: aqua;
+        }
+
+        /* 4.id选择器 */
+        #content{
+            color: blueviolet;
+        }
+
+        /* 5.派出选择器*/
+        .box2 li{
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <p>这是p标签</p>
+    <strong>这是Strong标签</strong>
+
+    <div>这是div</div>
+    <span>这是span</span>
+    <div class="wrapper">这是div</div>
+    <div class="wrapper">这是div</div>
+    <div class="wrapper" id="content">这是div</div>
+
+    <ul class="box1">
+        <li>li01</li>
+        <li>li02</li>
+        <li>li03</li>
+    </ul>
+    <ul class="box2">
+        <li>li01</li>
+        <li>li02</li>
+        <li>li03</li>
+        <ul>
+            <li>sub01</li>
+            <li>sub02</li>
+        </ul>
+    </ul>
+</body>
+</html>
