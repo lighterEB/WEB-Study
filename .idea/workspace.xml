@@ -20,16 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824a84ec-e60c-42aa-bdd5-f2cd6d4db138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day 02/select.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 02/textarea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/iframe/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/iframe/fashion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/iframe/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/iframe/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/iframe元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/img/saonan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/综合练习/meinv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/综合练习/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/综合练习/综合表格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 02/综合练习/网格表格.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 02/input元素.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 02/input元素.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 02/基本表格.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 02/基本表格.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 02/完整表格.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 02/完整表格.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 02/标签通用属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 02/标签通用属性.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 02/表单元素.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 02/表单元素.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 02/表格中的colspan.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 02/表格中的colspan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 02/表格中的rowspan.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 02/表格中的rowspan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML语言学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML语言学习笔记.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +58,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -74,7 +78,7 @@
       <updated>1605090769439</updated>
       <workItem from="1605090770619" duration="2988000" />
       <workItem from="1605162870508" duration="4765000" />
-      <workItem from="1605267577401" duration="1468000" />
+      <workItem from="1605267577401" duration="7863000" />
     </task>
     <servers />
   </component>
@@ -92,5 +96,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
