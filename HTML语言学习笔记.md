@@ -159,3 +159,34 @@ Tip:
 			1.属性值的位置顺序
 			2.除了font-size和font-family之外，其他任何一个属性值都可以省略
 ```
+
+
+
+### 8.CSS背景
+
+```
+1.background-color：背景色（transparent/color）
+2.background-image：背景图（none/url）
+3.background-repeat：背景图像铺排方式（repeat/no-repeat/repeat-x/repeat-y）
+4.background-position：设置对象的背景图像位置（{x-number | top | center | bottom}{y-number | left | center | right}）
+5.background-attachment：背景图像滚动位置（scroll/fixed）
+6.background：设置背景图像的复合写法
+```
+
+
+
+### 9.CSS伪类选择器
+
+​	伪类：专门用来表示元素的一种特殊状态。
+
+​	常用伪类选择器：
+
+```
+1.a标签的伪类（:link/:visited/:hover/:active）
+2.:focus 获得焦点
+3.:first-child/:last-child/:nth-child(number)
+```
+
+
+
+​		
