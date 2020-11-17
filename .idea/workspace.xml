@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824a84ec-e60c-42aa-bdd5-f2cd6d4db138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day 03/CSS选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 03/选择器分组及样式继承.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 03/CSS字体.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML语言学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML语言学习笔记.md" afterDir="false" />
     </list>
@@ -71,7 +70,8 @@
       <updated>1605090769439</updated>
       <workItem from="1605090770619" duration="2988000" />
       <workItem from="1605162870508" duration="4765000" />
-      <workItem from="1605267577401" duration="17102000" />
+      <workItem from="1605267577401" duration="17566000" />
+      <workItem from="1605407340748" duration="1958000" />
     </task>
     <servers />
   </component>

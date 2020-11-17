@@ -139,4 +139,23 @@ W3C常见规范有：
 ```
 !important(10000)>内联样式(1000)>id选择器(100)>类、伪类选择器(10)>标签选择器(1)
 ```
+### 7.CSS字体
+```
+1.font-size:字体大小
+2.font-family:字体
+3.font-style:文字样式（normal/italic/oblique）
+4.font-weight:文字加粗(normal/bold/bolder/lighter/100-900)
+5.line-height:行高
+6.color:文字的颜色
+7.text-decoration:文字修饰
+8.text-align:文本对齐方式
+9.text-transform:字母大小写
+10.text-indent:文本缩进
 
+Tip:
+		font复合属性
+		font:font-style font-variant font-weight font-size/line-height font-family;
+		注意：
+			1.属性值的位置顺序
+			2.除了font-size和font-family之外，其他任何一个属性值都可以省略
+```
