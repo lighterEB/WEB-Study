@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>实训2</title>
+    <link rel="stylesheet" href="shixun2.css">
+</head>
+<body>
+    <div class="content">
+        <h1>使用开发环境</h1>
+        <p>IBM Integration Bus V10.0.0.18 操作系统：AIX、HP-Itanium、Linux、Solaris、Windows 和 z/OS</p>
+        <section class="review">
+        <h3>在 Linux 或 Windows 上使用开发环境，以开发消息流。</h3>
+        <a href="">开始之前</a>
+        <a href="">安装 IBM® Integration Toolkit；</a>
+        <a href="">请参阅安装 IBM Integration Bus 软件。</a>
+        <a href="">安装将创建缺省开发环境。</a>
+        </section>
+        <p>关于此任务</p>
+        <p>要开始使用开发环境，请完成下列步骤：</p>
+        <p>过程</p>
+        <p>通过下列方式启动 IBM Integration Toolkit：</p>
+
+        <section>
+            <h2><a name="title1" id="title1"></a>Linux platform从安装目录（例如 $HOME/iib-10.0.0.0）中，输入以下文本：</h2>
+            <p>./iib toolkit</p>
+            <p>Windows platform</p>
+            <p>Windows 7 和 Windows Server 2008</p>
+            <p>从 Windows 的“开始”菜单，单击 开始 > 所有程序 > IBM Integration Bus 10.0.0.n > IBM Integration Toolkit 10.0.0.n。</p>
+            <p>Windows 8 和 Windows Server 2012</p>
+            <p>从“应用程序”面板，搜索 IBM Integration Toolkit 10.0.0.n。</p>
+            <p>Windows 10</p>
+            <p>从 Windows“开始”菜单中选择 IBM Integration Toolkit 10.0.0.n，或者在“搜索”框中搜索 IBM Integration Toolkit 10.0.0.n 并将其选中。</p>
+            <p>这将打开 IBM Integration Toolkit 会话，其中显示了“欢迎”页面。您可以在 IBM Integration Toolkit 中调整各项设置，以满足您的需求并适应您的工作环境；例如，颜色和字体。配置 IBM Integration Toolkit 中描述了这些选项。</p>
+            <p>关闭“欢迎”页面。 随后可以通过单击帮助 > 欢迎返回到“欢迎”页面。如果列出多个选项，请选择 IBM Integration Bus。</p>
+            <p>在“集成开发”透视图中，选择集成节点视图。另外，也可以单击窗口 > 显示视图 > 其他 > 集成开发 > 集成节点来显示集成节点视图。 将为您创建名为 TESTNODE_user_name 的缺省集成节点。</p>
+            <p>您的配置可能会受集成节点的操作方式的影响。缺省操作方式为advanced方式，在这种方式下集成节点不受任何限制地运行。请向代理管理员核实哪种操作方式适用于贵组织；您可能必须在创建集成节点后更改其方式。有关操作方式的更多信息，请参阅操作方式。</p>
+            <p>如果要创建自己的集成节点，请参阅使用 IBM Integration Toolkit 创建集成节点：</p>
+            <p>必须在集成节点上至少具有一个集成服务器。为您创建了一个服务器 要向集成节点添加更多集成服务器，请右键单击集成节点，并单击新建 > 集成服务器。输入集成服务器的名称，然后单击确定。</p>
+            <p>集成服务器是运行消息流的运行时环境。您可以在单个集成节点上创建许多集成服务器，并且可以将消息流部署到一个或多个集成节点上的一个或多个集成服务器。</p>
+            <p>有关此任务的更详细的指示信息，请参阅使用 IBM Integration Toolkit 创建集成服务器。</p>
+        </section>
+
+        <section>
+            <h2 ></h2>
+
+        现在，您的配置已可供使用。
+        下一步做什么
+        </section>
+
+        <section>
+        您可以开始开发要部署到集成节点的资源。您可以创建自己的消息流，也可以使用所提供的用于帮助您入门的模式和样本。有关这些选项的详细信息，请参阅开发集成解决方案。
+        此任务包含了创建集成节点和配置开发环境所必须完成的最小步骤集。通常，作为应用程序开发者，您在单平台环境中工作来创建、部署和测试消息流，然后再提供这些消息流以供在生产环境测试中使用。
+        提供了更多选项来进行增强型配置，其中包括可配置服务。当此基本配置无法再满足您的消息流需求，并且您需要进行附加配置以支持这些需求时，可以在为测试环境和生产环境配置集成节点中找到这些更高级选项的详细信息。
+        </section>
+    </div>
+</body>
+</html>

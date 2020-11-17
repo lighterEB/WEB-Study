@@ -1,10 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>实训1</title>
+    <link rel="stylesheet" href="shixun1.css">
 </head>
 <body>
-$END$
+    <!--开发思路：先整体，再局部，从上至下-->
+    <div class="wrapper">
+        <h1>数据库概述</h1>
+        <p><span class="summary">摘要：</span> 如果要根据其他操作协调消息流针对数据库执行的操作，将消息流配置为支持事务的全局协调。有关如何完成此任务的信息，请参阅配置消息流事务性。</p>
+        <p>集成节点可以对数据库中存储的业务数据进行处理。如果您使用了数据库，那么必须先对它们进行配置，然后才能从消息流中对其进行访问。</p>
+        <p>IBM® Integration Bus 支持IBM Integration Bus 系统需求中列示的数据库。如果将消息流配置为访问数据库，那么将无法访问这些数据库所支持的某些数据类型。在来自外部数据库的值的数据类型中定义受支持的数据类型。</p>
+        <p>在您的计算机上，可能还支持其他本地和远程数据库管理器。有关更多信息，请参阅IBM Integration Bus 系统需求。</p>
+        <p>必须先设置数据库连接，这样集成节点才能代表其部署的消息流访问数据库。支持 ODBC 和 JDBC 连接；一些平台会受到某些限制，如本部分中的主题所述。ODBC 驱动程序随同 IBM Integration Bus 一起提供和安装。IBM Integration Bus 不提供 JDBC 驱动程序；必须从数据库供应商处获取 JDBC 驱动程序文件。</p>
+        <p>您可以使用 mqsicvp 命令作为 ODBC 测试工具；请参阅启用数据库 ODBC 连接以获取更多信息。有关数据库连接的信息，请参阅数据库连接。</p>
+        <ul>
+            <li><a href="#"> Compute</a></li>
+            <li><a href="#"> Database</a></li>
+            <li><a href="#"> DatabaseInput</a></li>
+            <li><a href="#"> DatabaseRetrieve</a></li>
+            <li><a href="#"> DatabaseRoute</a></li>
+            <li><a href="#"> Filter</a></li>
+            <li><a href="#"> JavaCompute</a></li>
+            <li><a href="#"> Mapping</a></li>
+        </ul>
+    </div>
 </body>
 </html>
