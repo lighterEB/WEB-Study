@@ -209,3 +209,40 @@ Tip:
 3.+:兄弟选择
 ```
 
+
+
+## 第四天总结
+
+### 1.CSS浮动
+
+<table>
+  <tr align="center">
+    <th>值</th>
+    <th>描述</th>
+  </tr>
+  <tr align="center">
+    <td>left</td>
+    <td>元素向左浮动。</td>
+  </tr>
+  <tr align="center">
+    <td>right</td>
+  	<td>元素向右浮动。</td>
+  </tr>
+  <tr align="center">
+    <td>none</td>
+    <td>默认值。元素不浮动，并会显示其在文本中出现的位置。</td>
+  </tr>
+  <tr align="center">
+    <td>inherit</td>
+    <td>规定应该从父元素继承float属性的值</td>
+  </tr>
+</table>
+
+​	实现
+
+```
+<!--HTML-->
+<div class="left"></div>
+<div><>
+```
+
