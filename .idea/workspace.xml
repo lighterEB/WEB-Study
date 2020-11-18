@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="824a84ec-e60c-42aa-bdd5-f2cd6d4db138" name="Default Changelist" comment="" />
+    <list default="true" id="824a84ec-e60c-42aa-bdd5-f2cd6d4db138" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day 04/css浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/案例-浮动布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/清除浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/盒子模型.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,13 +57,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day 03/实训" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day 04" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Myproject\web\HTML Learning\Practice\WEB-Study\day 04" />
       <recent name="$PROJECT_DIR$/day 03/实训" />
     </key>
   </component>
@@ -73,6 +81,7 @@
       <workItem from="1605162870508" duration="4765000" />
       <workItem from="1605267577401" duration="17566000" />
       <workItem from="1605407340748" duration="10071000" />
+      <workItem from="1605704796593" duration="3689000" />
     </task>
     <servers />
   </component>
@@ -99,6 +108,14 @@
       <screen x="0" y="0" width="1680" height="945" />
     </state>
     <state x="629" y="255" key="#Web_Browsers/0.0.1680.945@0.0.1680.945" timestamp="1605668164179" />
+    <state x="1439" y="422" key="FileChooserDialogImpl" timestamp="1605704793619">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1439" y="422" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1605704793619" />
+    <state x="1695" y="259" key="SettingsEditor" timestamp="1605706436521">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1695" y="259" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1605706436521" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1605600901806">
       <screen x="0" y="0" width="1680" height="945" />
     </state>
