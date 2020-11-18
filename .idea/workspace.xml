@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824a84ec-e60c-42aa-bdd5-f2cd6d4db138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day 03/实训/shixun2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 03/实训/实训2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML语言学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML语言学习笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 03/CSS属性和关系选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 03/CSS属性和关系选择器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 03/实训/shixun1.css" beforeDir="false" afterPath="$PROJECT_DIR$/day 03/实训/shixun1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 03/实训/实训1.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 03/实训/实训1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 03/实训/shixun2.css" beforeDir="false" afterPath="$PROJECT_DIR$/day 03/实训/shixun2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 03/实训/实训2.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 03/实训/实训2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +76,7 @@
       <workItem from="1605090770619" duration="2988000" />
       <workItem from="1605162870508" duration="4765000" />
       <workItem from="1605267577401" duration="17566000" />
-      <workItem from="1605407340748" duration="6530000" />
+      <workItem from="1605407340748" duration="9828000" />
     </task>
     <servers />
   </component>
@@ -103,6 +99,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="629" y="255" key="#Web_Browsers" timestamp="1605668164179">
+      <screen x="0" y="0" width="1680" height="945" />
+    </state>
+    <state x="629" y="255" key="#Web_Browsers/0.0.1680.945@0.0.1680.945" timestamp="1605668164179" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1605600901806">
       <screen x="0" y="0" width="1680" height="945" />
     </state>
