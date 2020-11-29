@@ -20,8 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824a84ec-e60c-42aa-bdd5-f2cd6d4db138" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day 04/carouse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/images/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 04/案例-轮播图.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 04/盒子模型.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 04/盒子模型.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML语言学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML语言学习笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 04/display属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 04/display属性.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 04/table样式.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 04/table样式.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -79,7 +90,7 @@
       <workItem from="1605267577401" duration="17566000" />
       <workItem from="1605407340748" duration="10071000" />
       <workItem from="1605704796593" duration="4378000" />
-      <workItem from="1606655556009" duration="946000" />
+      <workItem from="1606655556009" duration="6426000" />
     </task>
     <servers />
   </component>

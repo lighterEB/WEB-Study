@@ -325,3 +325,48 @@ none：默认值，不浮动。
 ​				4个（apx bpx cpx dpx）：表示上为apx，右为bpx，下为cpx，左为dpx
 
 2）内边距（padding）：指元素的文本内容与边框之间的距离，用法与外边距完全一致。
+
+
+
+### 3.display属性
+
+用来设置元素的显示方式（none，block，inline，inline-block）
+
+### 4.table样式
+
+​	table一般不用来布局，主要用来格式化数据。
+
+​	属性：
+
+​			width：
+
+​			height：
+
+​			border-collapse : collapse; 单线边框
+
+### 5.无序列表
+
+无序列表是一个项目的列表，此列项目使用粗体圆点（典型的小黑圆圈）进行标记。
+
+无序列表使用 <ul> 标签
+
+```
+<ul>
+<li>Coffee</li>
+<li>Milk</li>
+</ul>
+```
+
+### 6.有序列表
+
+有序列表也是一列项目，列表项目使用数字进行标记。 有序列表始于 <ol> 标签。每个列表项始于 <li> 标签。
+
+列表项使用数字来标记。
+
+```
+<ol>
+<li>Coffee</li>
+<li>Milk</li>
+</ol>
+```
+

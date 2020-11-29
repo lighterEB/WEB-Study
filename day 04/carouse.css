@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+/* 轮播组图 */
+.carousel{
+    width: 880px;
+    height: 300px;
+    margin: 0 auto;
+    position: relative;/*相对定位*/
+    overflow: hidden;
+}
+.carousel-imgs li{
+    float: left;
+}
+
+.carousel-imgs img{
+    width: 100%;
+    height: 300px;
+}
+/* 控制器样式 */
+.prev,.next{
+    width: 32px;
+    height: 32px;
+    top: 50%;
+    margin-top: -16px;
+    cursor: pointer;
+    position: absolute;
+}
+.prev{
+    background-image: url(./images/left.png);
+    left: 10px;
+}
+.next{
+    background-image: url(./images/right.png);
+    right: 10px;
+}
+/* 计数器 */
+.count{
+    width: 880px;
+    height: 10px;
+    position: absolute;
+    bottom: 25px;
+}
+.count ul{
+    width: 80px;
+    margin: 0 auto;
+}
+.count ul li{
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+    background-color: #eeeeee;
+    opacity: .8;
+    float: left;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.count .active{
+    background-color: #ff7541;
+}
