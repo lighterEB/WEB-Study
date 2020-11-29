@@ -304,4 +304,24 @@ none：默认值，不浮动。
 
 系统默认外边距为8px。
 
-![image-20201129211718265](C:\Users\38129\AppData\Roaming\Typora\typora-user-images\image-20201129211718265.png)
+1）外边距（margin）：指元素边框线之外的距离。
+
+​		margin-left：左边距
+
+​		margin-right：右边距
+
+​		margin-top：上边距
+
+​		margin-bottom：下边距
+
+​		margin：可用来设置任意一个边的边距，可以带1至4个参数。
+
+​				1个（apx）: 表示上下左右边距都有这样的外边距apx
+
+​				2个（apx bpx）：表示上下外边距为apx，左右外边距为bpx
+
+​				3个（apx bpx cpx）： 表示上外边距为apx，下外边距为cpx，左右外边距为bpx
+
+​				4个（apx bpx cpx dpx）：表示上为apx，右为bpx，下为cpx，左为dpx
+
+2）内边距（padding）：指元素的文本内容与边框之间的距离，用法与外边距完全一致。
