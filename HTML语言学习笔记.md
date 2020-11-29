@@ -303,3 +303,5 @@ none：默认值，不浮动。
 区别外边距和内边距是以边框参照。
 
 系统默认外边距为8px。
+
+![image-20201129211718265](C:\Users\38129\AppData\Roaming\Typora\typora-user-images\image-20201129211718265.png)
