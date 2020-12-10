@@ -64,7 +64,30 @@ W3C常见规范有：
 
 ## 第二天总结
 
+### 1.HTML 元素
 
+<table class="reference" style="font-size:110%">
+<tbody><tr>
+<th width="34%">开始标签 *</th>
+<th width="34%">元素内容</th>
+<th width="34%">结束标签 *</th>
+</tr>
+<tr>
+<td>&lt;p&gt;</td>
+<td>这是一个段落</td>
+<td>&lt;/p&gt;</td>
+</tr>
+<tr>
+<td>&lt;a href="default.htm"&gt;</td>
+<td>这是一个链接</td>
+<td>&lt;/a&gt;</td>
+</tr>
+<tr>
+<td>&lt;br&gt;</td>
+<td>换行</td>
+<td>&nbsp;</td>
+</tr>
+</tbody></table>
 
 
 

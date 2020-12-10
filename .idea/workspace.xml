@@ -20,19 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824a84ec-e60c-42aa-bdd5-f2cd6d4db138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day 04/carouse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 04/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 04/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 04/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 04/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 04/images/left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 04/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 04/列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 04/案例-轮播图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 06/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML语言学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML语言学习笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 04/display属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 04/display属性.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 04/table样式.html" beforeDir="false" afterPath="$PROJECT_DIR$/day 04/table样式.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -63,9 +52,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day 04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -91,6 +81,7 @@
       <workItem from="1605407340748" duration="10071000" />
       <workItem from="1605704796593" duration="4378000" />
       <workItem from="1606655556009" duration="6426000" />
+      <workItem from="1607588386330" duration="1847000" />
     </task>
     <servers />
   </component>
@@ -111,23 +102,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="629" y="255" key="#Web_Browsers" timestamp="1605668164179">
-      <screen x="0" y="0" width="1680" height="945" />
-    </state>
-    <state x="629" y="255" key="#Web_Browsers/0.0.1680.945@0.0.1680.945" timestamp="1605668164179" />
-    <state x="1439" y="422" key="FileChooserDialogImpl" timestamp="1605704793619">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1439" y="422" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1605704793619" />
-    <state x="1695" y="259" key="SettingsEditor" timestamp="1605706436521">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1695" y="259" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1605706436521" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1605600901806">
-      <screen x="0" y="0" width="1680" height="945" />
-    </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1680.945@0.0.1680.945" timestamp="1605600901806" />
   </component>
 </project>
